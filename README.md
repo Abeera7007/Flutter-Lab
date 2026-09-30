@@ -5,7 +5,7 @@
 
 <br>
 
-### *Learning Flutter by turning ideas into apps — one experiment, one bug, and one questionable UI decision at a time.*
+### *Learning Flutter by turning ideas into apps. One experiment, one bug, and one questionable UI decision at a time.*
 
 <br>
 
