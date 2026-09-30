@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="./banner.svg" alt="Flutter Lab — learn, experiment, build" width="100%">
+<img src="./banner.png" alt="Flutter Lab — learn, experiment, build" width="100%">
 
 <br>
 
